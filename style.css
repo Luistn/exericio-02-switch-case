@@ -1,0 +1,11 @@
+  body { font-family: Arial, sans-serif; padding: 20px; background: #f4f4f4; }
+    h1 { color: #333; }
+    button { margin: 5px 0; padding: 10px; width: 100%; font-size: 1rem; }
+
+    .logo-direita {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    width: 150px; 
+    height: auto;
+}
